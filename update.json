@@ -1,8 +1,8 @@
 {
-    "versionCode":  3,
-    "versionName":  "1.2.0",
-    "apkUrl":  "https://github.com/visk1231/My-Life-Releases/releases/download/v1.2.0/My-Life-1.2.0.apk",
-    "sha256":  "9c9a4299edb6c8ef3f32ce6c3e97bf0b57bf47abb6e3de6e6316acab3b90d30c",
-    "size":  5141410,
-    "notes":  "Автообновление, улучшенный дневник и обновлённый виджет."
+    "versionCode": 4,
+    "versionName": "1.2.1",
+    "apkUrl": "https://github.com/visk1231/My-Life-Releases/releases/download/v1.2.1/My-Life-1.2.1.apk",
+    "sha256": "9dfc3cfb98376c2d7419052876e1c4ba2325bd178386944c6a01c1dc78244c89",
+    "size": 5129610,
+    "notes": "Тестовое обновление для проверки встроенного автообновления."
 }
