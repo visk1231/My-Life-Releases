@@ -1,8 +1,8 @@
 {
-    "versionCode":  9,
-    "versionName":  "1.3.4",
-    "apkUrl":  "https://github.com/visk1231/My-Life-Releases/releases/download/v1.3.4/My-Life-1.3.4.apk",
-    "sha256":  "4417ff0a59bd8befd0616c3e4815f9916e0a8edbbc02ebe34b6b96d9176576d5",
-    "size":  5150982,
-    "notes":  "Исправлен выбор отметки в виджете. При нажатии на привычку теперь можно сразу выбрать золото, серебро, бронзу или снять отметку. Комментарий для серебра и бронзы открывается отдельно по значку карандаша."
+    "versionCode":  10,
+    "versionName":  "1.3.5",
+    "apkUrl":  "https://github.com/visk1231/My-Life-Releases/releases/download/v1.3.5/My-Life-1.3.5.apk",
+    "sha256":  "ff417799fe8063893d56742afc784847c3dcaea5c6deebe6003947878bb3b0fc",
+    "size":  5154458,
+    "notes":  "Исправлена отметка привычек из виджета. Нажатие теперь показывает золото, серебро, бронзу и снятие отметки прямо в строке виджета, без перехода в приложение."
 }
