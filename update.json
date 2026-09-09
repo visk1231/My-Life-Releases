@@ -1,8 +1,8 @@
 {
-    "versionCode": 11,
-    "versionName": "1.4.0",
-    "apkUrl": "https://github.com/visk1231/My-Life-Releases/releases/download/v1.4.0/My-Life-1.4.0.apk",
-    "sha256": "51176ce261260b12cbbecacc8c6a153a2f4cbff1e205ee256912cf0c35342234",
-    "size": 5383722,
-    "notes": "Улучшены сохранение отметок и синхронизация виджета. Описание привычки раскрывается в виджете, медаль выбирается отдельно. Дневник разделён на день и неделю. Исправлен учёт пауз, упрощены карточки и настройки."
+  "versionCode": 15,
+  "versionName": "1.4.4",
+  "apkUrl": "https://github.com/visk1231/My-Life-Releases/releases/download/v1.4.4/My-Life-1.4.4.apk",
+  "sha256": "b53bc3c87ccb3c2a8aabf7cff30cd80991badbb2cab072e219f9647759042e1d",
+  "size": 5163786,
+  "notes": "Исправлены привычки, дневник, карточки и база знаний. Добавлена история расписаний, доступ к прошлым отметкам после паузы и запрет заполнения будущих дней."
 }
