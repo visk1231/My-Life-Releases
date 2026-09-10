@@ -1,8 +1,8 @@
 {
-  "versionCode": 15,
-  "versionName": "1.4.4",
-  "apkUrl": "https://github.com/visk1231/My-Life-Releases/releases/download/v1.4.4/My-Life-1.4.4.apk",
-  "sha256": "b53bc3c87ccb3c2a8aabf7cff30cd80991badbb2cab072e219f9647759042e1d",
-  "size": 5163786,
-  "notes": "Исправлены привычки, дневник, карточки и база знаний. Добавлена история расписаний, доступ к прошлым отметкам после паузы и запрет заполнения будущих дней."
+  "versionCode": 16,
+  "versionName": "1.4.5",
+  "apkUrl": "https://github.com/visk1231/My-Life-Releases/releases/download/v1.4.5/My-Life-1.4.5.apk",
+  "sha256": "67900e8b57e5398934df62a73ca3865f57ae04f90688053f79c2e673f83793d7",
+  "size": 5165998,
+  "notes": "Добавлено удобное перетаскивание привычек удержанием, перенос между группами, плавающая кнопка добавления, счетчики выполнения по группам и единый формат дат ДД.ММ.ГГГГ."
 }
