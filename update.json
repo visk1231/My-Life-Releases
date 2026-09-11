@@ -1,8 +1,8 @@
 {
-    "versionCode":  22,
-    "versionName":  "1.4.11",
-    "apkUrl":  "https://github.com/visk1231/My-Life-Releases/releases/download/v1.4.11/My-Life-1.4.11.apk",
-    "sha256":  "7dde8cc0e3165e109decc7063c412f12236c7f30d506994b0cdc32aeaaf3b822",
-    "size":  5163702,
-    "notes":  "Архив привычек: приостановленные привычки скрываются из списка и восстанавливаются из настроек."
+    "versionCode":  23,
+    "versionName":  "1.4.12",
+    "apkUrl":  "https://github.com/visk1231/My-Life-Releases/releases/download/v1.4.12/My-Life-1.4.12.apk",
+    "sha256":  "23ecb59a1914249f032235abecde3464f913d5785bdf3779eae63ab52e348f2c",
+    "size":  5164610,
+    "notes":  "Редактирование названий привычек, единые цвета групп, улучшенная навигация и понятная статистика дневника."
 }
