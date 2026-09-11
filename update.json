@@ -1,8 +1,8 @@
 {
-    "versionCode":  21,
-    "versionName":  "1.4.10",
-    "apkUrl":  "https://github.com/visk1231/My-Life-Releases/releases/download/v1.4.10/My-Life-1.4.10.apk",
-    "sha256":  "2ce187532584ff99ef3c130594a2126c69b4c8f7303970c83f1f278d85efef47",
-    "size":  5163074,
-    "notes":  "Исправлена белая рамка у медалей; ускорены смена дней и закрытие описаний привычек."
+    "versionCode":  22,
+    "versionName":  "1.4.11",
+    "apkUrl":  "https://github.com/visk1231/My-Life-Releases/releases/download/v1.4.11/My-Life-1.4.11.apk",
+    "sha256":  "7dde8cc0e3165e109decc7063c412f12236c7f30d506994b0cdc32aeaaf3b822",
+    "size":  5163702,
+    "notes":  "Архив привычек: приостановленные привычки скрываются из списка и восстанавливаются из настроек."
 }
