@@ -1,8 +1,8 @@
 {
-  "versionCode": 19,
-  "versionName": "1.4.8",
-  "apkUrl": "https://github.com/visk1231/My-Life-Releases/releases/download/v1.4.8/My-Life-1.4.8.apk",
-  "sha256": "21de8bdfa4248d8f1a157d449d0454343006a92c0a4d9ef3afc30eeb8a4f36a8",
-  "size": 5161842,
-  "notes": "Перенос привычек стал понятнее: без жёлтого свечения, с подсказками места вставки."
+  "versionCode": 20,
+  "versionName": "1.4.9",
+  "apkUrl": "https://github.com/visk1231/My-Life-Releases/releases/download/v1.4.9/My-Life-1.4.9.apk",
+  "sha256": "289964af5e52b6f370a9d371ff2b7449dd63ae6208af018519905031433d4d02",
+  "size": 5162738,
+  "notes": "Перенос привычек стал безопаснее: отдельный режим порядка и перенос между группами через меню привычки."
 }
