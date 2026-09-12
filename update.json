@@ -1,8 +1,8 @@
 {
-  "versionCode": 32,
-  "versionName": "1.4.21",
-  "apkUrl": "https://github.com/visk1231/My-Life-Releases/releases/download/v1.4.21/My-Life-1.4.21.apk",
-  "sha256": "33183471bf75b3560406d3d38087f25a9de96cf8f5455a2de326053ec7821d34",
-  "size": 5166506,
-  "notes": "Затемнение кругов незапланированных привычек в виджете; отметка таких привычек доступна и учитывается в процентах."
+  "versionCode": 33,
+  "versionName": "1.4.22",
+  "apkUrl": "https://github.com/visk1231/My-Life-Releases/releases/download/v1.4.22/My-Life-1.4.22.apk",
+  "sha256": "16ff28c1644c68e3f4a2ce17ef626d6b6f894775e7c3e742f249abc552e4bed7",
+  "size": 5166402,
+  "notes": "Процент выполнения перемещён в верхнюю строку рядом с заголовком «Привычки» и кнопкой папки."
 }
