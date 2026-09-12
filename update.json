@@ -1,8 +1,8 @@
 {
-  "versionCode": 29,
-  "versionName": "1.4.18",
-  "apkUrl": "https://github.com/visk1231/My-Life-Releases/releases/download/v1.4.18/My-Life-1.4.18.apk",
-  "sha256": "72daee895aba61af28e893de09807178444bb13b897e89420543b830aca38900",
-  "size": 5166006,
-  "notes": "Карточки-слова снова отображаются в виджете; ярлык Эрудиция заменён на нейтральный Карточка."
+  "versionCode": 30,
+  "versionName": "1.4.19",
+  "apkUrl": "https://github.com/visk1231/My-Life-Releases/releases/download/v1.4.19/My-Life-1.4.19.apk",
+  "sha256": "50ad9666c2368af52a64939dbbc172bc53a2c32c353165618254dc443128d2bc",
+  "size": 5166182,
+  "notes": "Виджет считает только привычки по расписанию на сегодня; улучшено отображение карточки Эрудиция и управление группами."
 }
