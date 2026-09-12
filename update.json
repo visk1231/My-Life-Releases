@@ -1,8 +1,8 @@
 {
-  "versionCode": 28,
-  "versionName": "1.4.17",
-  "apkUrl": "https://github.com/visk1231/My-Life-Releases/releases/download/v1.4.17/My-Life-1.4.17.apk",
-  "sha256": "feaa4330d71ebaed8fb5c7da2dc472ca799b020dc72eb8bdaf852c00e5d38ffc",
-  "size": 5165998,
-  "notes": "Управление группами перенесено в отдельное окно, стрелка статистики перемещена, Эрудиция убрана из виджета."
+  "versionCode": 29,
+  "versionName": "1.4.18",
+  "apkUrl": "https://github.com/visk1231/My-Life-Releases/releases/download/v1.4.18/My-Life-1.4.18.apk",
+  "sha256": "72daee895aba61af28e893de09807178444bb13b897e89420543b830aca38900",
+  "size": 5166006,
+  "notes": "Карточки-слова снова отображаются в виджете; ярлык Эрудиция заменён на нейтральный Карточка."
 }
