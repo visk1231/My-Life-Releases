@@ -1,8 +1,8 @@
 {
-  "versionCode": 30,
-  "versionName": "1.4.19",
-  "apkUrl": "https://github.com/visk1231/My-Life-Releases/releases/download/v1.4.19/My-Life-1.4.19.apk",
-  "sha256": "50ad9666c2368af52a64939dbbc172bc53a2c32c353165618254dc443128d2bc",
-  "size": 5166182,
-  "notes": "Виджет считает только привычки по расписанию на сегодня; улучшено отображение карточки Эрудиция и управление группами."
+  "versionCode": 31,
+  "versionName": "1.4.20",
+  "apkUrl": "https://github.com/visk1231/My-Life-Releases/releases/download/v1.4.20/My-Life-1.4.20.apk",
+  "sha256": "be02a3b6b17f6e23f7f93c73742cdb031c0ccc6ad3231a113620c2388276cbbd",
+  "size": 5166430,
+  "notes": "Виджет показывает все привычки с затемнением незапланированных; неотмеченные не считаются, отмеченные вне расписания учитываются. В приложении добавлен процент за сегодня."
 }
