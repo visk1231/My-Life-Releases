@@ -1,8 +1,8 @@
 {
-  "versionCode": 31,
-  "versionName": "1.4.20",
-  "apkUrl": "https://github.com/visk1231/My-Life-Releases/releases/download/v1.4.20/My-Life-1.4.20.apk",
-  "sha256": "be02a3b6b17f6e23f7f93c73742cdb031c0ccc6ad3231a113620c2388276cbbd",
-  "size": 5166430,
-  "notes": "Виджет показывает все привычки с затемнением незапланированных; неотмеченные не считаются, отмеченные вне расписания учитываются. В приложении добавлен процент за сегодня."
+  "versionCode": 32,
+  "versionName": "1.4.21",
+  "apkUrl": "https://github.com/visk1231/My-Life-Releases/releases/download/v1.4.21/My-Life-1.4.21.apk",
+  "sha256": "33183471bf75b3560406d3d38087f25a9de96cf8f5455a2de326053ec7821d34",
+  "size": 5166506,
+  "notes": "Затемнение кругов незапланированных привычек в виджете; отметка таких привычек доступна и учитывается в процентах."
 }
