@@ -1,8 +1,8 @@
 {
-  "versionCode": 27,
-  "versionName": "1.4.16",
-  "apkUrl": "https://github.com/visk1231/My-Life-Releases/releases/download/v1.4.16/My-Life-1.4.16.apk",
-  "sha256": "82684031e9772e56bda19d3cadda03ef31b596aad3a0c1b6a0c9004cb663fd98",
+  "versionCode": 28,
+  "versionName": "1.4.17",
+  "apkUrl": "https://github.com/visk1231/My-Life-Releases/releases/download/v1.4.17/My-Life-1.4.17.apk",
+  "sha256": "feaa4330d71ebaed8fb5c7da2dc472ca799b020dc72eb8bdaf852c00e5d38ffc",
   "size": 5165998,
   "notes": "Управление группами перенесено в отдельное окно, стрелка статистики перемещена, Эрудиция убрана из виджета."
 }
