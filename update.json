@@ -1,8 +1,8 @@
 {
-  "versionCode": 34,
-  "versionName": "1.4.23",
-  "apkUrl": "https://github.com/visk1231/My-Life-Releases/releases/download/v1.4.23/My-Life-1.4.23.apk",
-  "sha256": "0062995519f1331757f9f535ca01a89782606cfb51aee5fdfdf931154fd956aa",
-  "size": 5680606,
-  "notes": "Новая иконка. Улучшена читаемость цитат и целей на неделю в виджете."
+  "versionCode": 35,
+  "versionName": "1.4.24",
+  "apkUrl": "https://github.com/visk1231/My-Life-Releases/releases/download/v1.4.24/My-Life-1.4.24.apk",
+  "sha256": "9652ae9c38ef189e4b58aa91d6dd93911d0bacb61f9d5ee4f660d81083601abe",
+  "size": 5681166,
+  "notes": "Улучшена читаемость карточек и целей на неделю в виджете: крупный текст и адаптивная раскладка целей."
 }
