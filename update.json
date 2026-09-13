@@ -1,8 +1,8 @@
 {
-  "versionCode": 33,
-  "versionName": "1.4.22",
-  "apkUrl": "https://github.com/visk1231/My-Life-Releases/releases/download/v1.4.22/My-Life-1.4.22.apk",
-  "sha256": "16ff28c1644c68e3f4a2ce17ef626d6b6f894775e7c3e742f249abc552e4bed7",
-  "size": 5166402,
-  "notes": "Процент выполнения перемещён в верхнюю строку рядом с заголовком «Привычки» и кнопкой папки."
+  "versionCode": 34,
+  "versionName": "1.4.23",
+  "apkUrl": "https://github.com/visk1231/My-Life-Releases/releases/download/v1.4.23/My-Life-1.4.23.apk",
+  "sha256": "0062995519f1331757f9f535ca01a89782606cfb51aee5fdfdf931154fd956aa",
+  "size": 5680606,
+  "notes": "Новая иконка. Улучшена читаемость цитат и целей на неделю в виджете."
 }
