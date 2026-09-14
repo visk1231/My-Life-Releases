@@ -1,9 +1,9 @@
 {
-  "versionCode": 38,
-  "versionName": "1.4.27",
-  "apkUrl": "https://github.com/visk1231/My-Life-Releases/releases/download/v1.4.27/My-Life-1.4.27.apk",
-  "sha256": "3050e893ddb5fc78ef914f43f70b315ccb1133f095a5261ea5d4b22428e419f1",
-  "size": 5681894,
-  "notes": "Исправлено плавное и отзывчивое перелистывание календаря привычек; улучшена надёжность и скорость сборки APK.",
-  "sourceFingerprint": "3701e6d087803a0aad3aa24e1fe3e405d5172ba9ed5e7caacbd64d563b8ed9f3"
+  "versionCode": 39,
+  "versionName": "1.4.28",
+  "apkUrl": "https://github.com/visk1231/My-Life-Releases/releases/download/v1.4.28/My-Life-1.4.28.apk",
+  "sha256": "42b25f9c96ce730029d17cb36f9f4a65189ca8d0009a31ac9d04405821f1364e",
+  "size": 5683358,
+  "notes": "Недельные миссии: главный текст в дневнике, удобный воскресный сценарий и сохранение итогов недели.",
+  "sourceFingerprint": "76b58c006680cba78919b4c0c8d4dc642dd1c4aa1003ea66c553c6a862a23625"
 }
