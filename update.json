@@ -1,8 +1,8 @@
 {
-  "versionCode": 36,
-  "versionName": "1.4.25",
-  "apkUrl": "https://github.com/visk1231/My-Life-Releases/releases/download/v1.4.25/My-Life-1.4.25.apk",
-  "sha256": "3a5d6523210a9a9d476787d05d89662189ef25478d64ad64d1b6217dc227c737",
-  "size": 5681542,
+  "versionCode": 37,
+  "versionName": "1.4.26",
+  "apkUrl": "https://github.com/visk1231/My-Life-Releases/releases/download/v1.4.26/My-Life-1.4.26.apk",
+  "sha256": "f2030e8042f966ab11d1e8e00a36eb411ae4d81e8f7754860c4d7a537d31a9ad",
+  "size": 5681546,
   "notes": "Плавное пролистывание ленты дат в привычках."
 }
