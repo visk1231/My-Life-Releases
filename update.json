@@ -1,9 +1,9 @@
 {
-  "versionCode": 40,
-  "versionName": "1.4.29",
-  "apkUrl": "https://github.com/visk1231/My-Life-Releases/releases/download/v1.4.29/My-Life-1.4.29.apk",
-  "sha256": "2ae42f3cc829e04b5b3b32e17553a35d99f43ec89aa75e70876ca8cc19442cad",
-  "size": 5684098,
-  "notes": "Исправлено отображение отметок в незапланированные дни. Добавлено сохранение раскрытых привычек и групп после перезапуска. Добавлена перестановка групп кнопками вверх и вниз.",
-  "sourceFingerprint": "51fd83140565b37ab29ec94b2df4e661cf4256c323a0ad89ca97c164590dd95b"
+  "versionCode": 41,
+  "versionName": "1.4.30",
+  "apkUrl": "https://github.com/visk1231/My-Life-Releases/releases/download/v1.4.30/My-Life-1.4.30.apk",
+  "sha256": "2f25c3cf69f13090134dbf43f8bb2f9cf71084856ece51922190ba70f2a5a74f",
+  "size": 5684090,
+  "notes": "Улучшена читаемость карточек «Эрудиция» в виджете; упрощено заполнение миссии и отображение периода итогов недели.",
+  "sourceFingerprint": "d7d2530dba5e6bfe076e619c0e206b5729c2c6d5775afe3df6fe67ef44f01feb"
 }
