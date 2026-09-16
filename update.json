@@ -1,9 +1,9 @@
 {
-  "versionCode": 42,
-  "versionName": "1.4.31",
-  "apkUrl": "https://github.com/visk1231/My-Life-Releases/releases/download/v1.4.31/My-Life-1.4.31.apk",
-  "sha256": "7ff58a48207b65ed94647ce58c17b738cd8cf78f25d092d08670814de6663830",
-  "size": 5683982,
-  "notes": "Непрерывная горизонтальная прокрутка календаря привычек с естественной инерцией и неподвижными названиями привычек.",
-  "sourceFingerprint": "64e3d5ea6f3ae105efbea9154e8b4a4c5c4c266ec368ca27eb6d7883aa067bc0"
+  "versionCode": 43,
+  "versionName": "1.4.32",
+  "apkUrl": "https://github.com/visk1231/My-Life-Releases/releases/download/v1.4.32/My-Life-1.4.32.apk",
+  "sha256": "d8a49ffd686630242c46022c90bc5ea3890964b1719dcd3221264c6a17bf7fb8",
+  "size": 5688872,
+  "notes": "Цитаты и напутствия: единая очередь виджета, порядок перетаскиванием, автосмена и быстрое открепление.",
+  "sourceFingerprint": "925c51b2caf793290c8fed8042a53c92992b732c9466b9cc45e181b61476d194"
 }
