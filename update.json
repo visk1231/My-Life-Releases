@@ -1,9 +1,9 @@
 {
-  "versionCode": 43,
-  "versionName": "1.4.32",
-  "apkUrl": "https://github.com/visk1231/My-Life-Releases/releases/download/v1.4.32/My-Life-1.4.32.apk",
-  "sha256": "d8a49ffd686630242c46022c90bc5ea3890964b1719dcd3221264c6a17bf7fb8",
-  "size": 5688872,
-  "notes": "Цитаты и напутствия: единая очередь виджета, порядок перетаскиванием, автосмена и быстрое открепление.",
-  "sourceFingerprint": "925c51b2caf793290c8fed8042a53c92992b732c9466b9cc45e181b61476d194"
+  "versionCode": 44,
+  "versionName": "1.4.33",
+  "apkUrl": "https://github.com/visk1231/My-Life-Releases/releases/download/v1.4.33/My-Life-1.4.33.apk",
+  "sha256": "3bdb45d4d2fb16cf63f8846f4313c4b0f09329ad2392f32e3873eac219e0b9ae",
+  "size": 5691816,
+  "notes": "Слова Эрудиции возвращены на виджет: отметка «Изучено» сразу показывает следующее слово и синхронизируется с приложением. Убрано добавление слов Эрудиции в обычные карточки.",
+  "sourceFingerprint": "f4b57775965feab0f979c29057a63798376884f76d5e6180b9645fc3e042026e"
 }
