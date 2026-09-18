@@ -1,9 +1,9 @@
 {
-  "versionCode": 44,
-  "versionName": "1.4.33",
-  "apkUrl": "https://github.com/visk1231/My-Life-Releases/releases/download/v1.4.33/My-Life-1.4.33.apk",
-  "sha256": "3bdb45d4d2fb16cf63f8846f4313c4b0f09329ad2392f32e3873eac219e0b9ae",
-  "size": 5691816,
-  "notes": "Слова Эрудиции возвращены на виджет: отметка «Изучено» сразу показывает следующее слово и синхронизируется с приложением. Убрано добавление слов Эрудиции в обычные карточки.",
-  "sourceFingerprint": "f4b57775965feab0f979c29057a63798376884f76d5e6180b9645fc3e042026e"
+  "versionCode": 45,
+  "versionName": "1.4.34",
+  "apkUrl": "https://github.com/visk1231/My-Life-Releases/releases/download/v1.4.34/My-Life-1.4.34.apk",
+  "sha256": "fb9e6416b56992d57bc88e12b623f0d1e8cad78c00f8946b2dcbc7f4c9156d8d",
+  "size": 5697238,
+  "notes": "Добавлены настраиваемые ежедневные системные уведомления: два напоминания о контроле привычек и одно о заполнении дневника.",
+  "sourceFingerprint": "32ba2df22107e314d80f62bed590c3ab3fede12113e47f8db7200b5ea1a78286"
 }
