@@ -1,9 +1,9 @@
 {
-  "versionCode": 45,
-  "versionName": "1.4.34",
-  "apkUrl": "https://github.com/visk1231/My-Life-Releases/releases/download/v1.4.34/My-Life-1.4.34.apk",
-  "sha256": "fb9e6416b56992d57bc88e12b623f0d1e8cad78c00f8946b2dcbc7f4c9156d8d",
-  "size": 5697238,
-  "notes": "Добавлены настраиваемые ежедневные системные уведомления: два напоминания о контроле привычек и одно о заполнении дневника.",
-  "sourceFingerprint": "32ba2df22107e314d80f62bed590c3ab3fede12113e47f8db7200b5ea1a78286"
+  "versionCode": 46,
+  "versionName": "1.4.35",
+  "apkUrl": "https://github.com/visk1231/My-Life-Releases/releases/download/v1.4.35/My-Life-1.4.35.apk",
+  "sha256": "b3dd1584cbaafdff671d04eafcbbf3d1dea64920f9c83903890eee20c3cc89f6",
+  "size": 5698258,
+  "notes": "Точные ежедневные уведомления: стабильное время при закрытом приложении, восстановление после перезагрузки и смены времени.",
+  "sourceFingerprint": "0bb8bf45685292dcea7e842ce8d26572df8ae4c7d5e0eda4569f4ecf9c9b31c4"
 }
