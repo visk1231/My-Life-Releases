@@ -1,9 +1,9 @@
 {
-  "versionCode": 47,
-  "versionName": "1.4.36",
-  "apkUrl": "https://github.com/visk1231/My-Life-Releases/releases/download/v1.4.36/My-Life-1.4.36.apk",
-  "sha256": "577b03e15924b822ef157ed0dd5f41d80baa3a27590835a064e223746205e028",
-  "size": 5700086,
-  "notes": "Конспекты стали удобнее: добавлены локальные аватары каналов и список в стиле Telegram.",
-  "sourceFingerprint": "f4afbb593dafb6a0bcdd40869e92dc9f3834d47ce8cc91d47a5994247198c898"
+  "versionCode": 48,
+  "versionName": "1.4.37",
+  "apkUrl": "https://github.com/visk1231/My-Life-Releases/releases/download/v1.4.37/My-Life-1.4.37.apk",
+  "sha256": "5051817a050afeb6af57c9af3ba57dd134f5c07b544a7b165466cbdca7b5034f",
+  "size": 5708430,
+  "notes": "Добавлены 96 мудростей и улучшена база знаний.",
+  "sourceFingerprint": "86b14a22033de1e1ea2b5fdd956031694ff60d7275818231b4e747f6fb95ed5f"
 }
