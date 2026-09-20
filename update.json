@@ -1,9 +1,9 @@
 {
-  "versionCode": 46,
-  "versionName": "1.4.35",
-  "apkUrl": "https://github.com/visk1231/My-Life-Releases/releases/download/v1.4.35/My-Life-1.4.35.apk",
-  "sha256": "b3dd1584cbaafdff671d04eafcbbf3d1dea64920f9c83903890eee20c3cc89f6",
-  "size": 5698258,
-  "notes": "Точные ежедневные уведомления: стабильное время при закрытом приложении, восстановление после перезагрузки и смены времени.",
-  "sourceFingerprint": "0bb8bf45685292dcea7e842ce8d26572df8ae4c7d5e0eda4569f4ecf9c9b31c4"
+  "versionCode": 47,
+  "versionName": "1.4.36",
+  "apkUrl": "https://github.com/visk1231/My-Life-Releases/releases/download/v1.4.36/My-Life-1.4.36.apk",
+  "sha256": "577b03e15924b822ef157ed0dd5f41d80baa3a27590835a064e223746205e028",
+  "size": 5700086,
+  "notes": "Конспекты стали удобнее: добавлены локальные аватары каналов и список в стиле Telegram.",
+  "sourceFingerprint": "f4afbb593dafb6a0bcdd40869e92dc9f3834d47ce8cc91d47a5994247198c898"
 }
