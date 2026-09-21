@@ -1,9 +1,9 @@
 {
-  "versionCode": 48,
-  "versionName": "1.4.37",
-  "apkUrl": "https://github.com/visk1231/My-Life-Releases/releases/download/v1.4.37/My-Life-1.4.37.apk",
-  "sha256": "5051817a050afeb6af57c9af3ba57dd134f5c07b544a7b165466cbdca7b5034f",
-  "size": 5708430,
-  "notes": "Добавлены 96 мудростей и улучшена база знаний.",
-  "sourceFingerprint": "86b14a22033de1e1ea2b5fdd956031694ff60d7275818231b4e747f6fb95ed5f"
+  "versionCode": 49,
+  "versionName": "1.4.38",
+  "apkUrl": "https://github.com/visk1231/My-Life-Releases/releases/download/v1.4.38/My-Life-1.4.38.apk",
+  "sha256": "05601786b4b9080076d7f5197db170d26649889086fffc01ebf720bc757b1fb2",
+  "size": 5708398,
+  "notes": "Синхронизация слова «Эрудиции»: слово остаётся до отметки «Изучено» в приложении или виджете.",
+  "sourceFingerprint": "34b4f1abd543e28c69b930ec18fd76fbbfbd2dbae85f2cacc808bcc593d42f8c"
 }
