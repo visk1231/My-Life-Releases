@@ -1,9 +1,9 @@
 {
-  "versionCode": 49,
-  "versionName": "1.4.38",
-  "apkUrl": "https://github.com/visk1231/My-Life-Releases/releases/download/v1.4.38/My-Life-1.4.38.apk",
-  "sha256": "05601786b4b9080076d7f5197db170d26649889086fffc01ebf720bc757b1fb2",
-  "size": 5708398,
-  "notes": "Синхронизация слова «Эрудиции»: слово остаётся до отметки «Изучено» в приложении или виджете.",
-  "sourceFingerprint": "34b4f1abd543e28c69b930ec18fd76fbbfbd2dbae85f2cacc808bcc593d42f8c"
+  "versionCode": 50,
+  "versionName": "1.4.39",
+  "apkUrl": "https://github.com/visk1231/My-Life-Releases/releases/download/v1.4.39/My-Life-1.4.39.apk",
+  "sha256": "54b2acd0957bfc1d05763064af95c6b4753fd725251368374ea292ac5b80370e",
+  "size": 5708550,
+  "notes": "Эрудиция: переход из виджета и синхронизация слова.",
+  "sourceFingerprint": "ab52db9ccd4d6946cb20c0662cbc1e8bbdee5cd80df06b753363f6fe0aebd9a1"
 }
