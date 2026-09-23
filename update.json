@@ -1,9 +1,9 @@
 {
-  "versionCode": 50,
-  "versionName": "1.4.39",
-  "apkUrl": "https://github.com/visk1231/My-Life-Releases/releases/download/v1.4.39/My-Life-1.4.39.apk",
-  "sha256": "54b2acd0957bfc1d05763064af95c6b4753fd725251368374ea292ac5b80370e",
-  "size": 5708550,
-  "notes": "Эрудиция: переход из виджета и синхронизация слова.",
-  "sourceFingerprint": "ab52db9ccd4d6946cb20c0662cbc1e8bbdee5cd80df06b753363f6fe0aebd9a1"
+    "versionCode":  51,
+    "versionName":  "1.4.40",
+    "apkUrl":  "https://github.com/visk1231/My-Life-Releases/releases/download/v1.4.40/My-Life-1.4.40.apk",
+    "sha256":  "22baf41817320c00b730ff84d7533133a773c78a78400557df30538c8983d670",
+    "size":  5710138,
+    "notes":  "Повторение изученных слов по расписанию и исправление восстановления резервной копии.",
+    "sourceFingerprint":  "a10f9512336e59c37f2e01e3007a17fc1617e3bfa4231bc2a0a9008116dce11d"
 }
