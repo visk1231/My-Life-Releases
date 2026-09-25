@@ -1,9 +1,9 @@
 {
-    "versionCode":  51,
-    "versionName":  "1.4.40",
-    "apkUrl":  "https://github.com/visk1231/My-Life-Releases/releases/download/v1.4.40/My-Life-1.4.40.apk",
-    "sha256":  "22baf41817320c00b730ff84d7533133a773c78a78400557df30538c8983d670",
-    "size":  5710138,
-    "notes":  "Повторение изученных слов по расписанию и исправление восстановления резервной копии.",
-    "sourceFingerprint":  "a10f9512336e59c37f2e01e3007a17fc1617e3bfa4231bc2a0a9008116dce11d"
+  "versionCode": 52,
+  "versionName": "1.4.41",
+  "apkUrl": "https://github.com/visk1231/My-Life-Releases/releases/download/v1.4.41/My-Life-1.4.41.apk",
+  "sha256": "893a66e2744fe9d0a2a0e74b85be63a2cf4523473f83ebdb92132e3118903863",
+  "size": 5722350,
+  "notes": "Добавлен раздел «Память»: короткие тренировки возврата к задаче и ориентации, история навыков и автоматическая отметка привычки.",
+  "sourceFingerprint": "24f65fa16a8cf26f96f30f047fd2c7d7d0b4136a5f6a2fcdaa101ad4e6acfed8"
 }
