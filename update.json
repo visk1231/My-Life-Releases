@@ -1,9 +1,9 @@
 {
-  "versionCode": 53,
-  "versionName": "1.4.42",
-  "apkUrl": "https://github.com/visk1231/My-Life-Releases/releases/download/v1.4.42/My-Life-1.4.42.apk",
-  "sha256": "286fa06a8c77fedf6d15fc6a0b695319af352b139352df4f8acc612a960eb7cd",
-  "size": 5732274,
-  "notes": "Раздел памяти: восстановление настоящих дел после прерываний, сохранение точки возврата, реальные маршруты и честная статистика.",
-  "sourceFingerprint": "3ed16e08130f6dc204780fbb9887918d135cfe4ad8ad80620e38614747b34fbf"
+  "versionCode": 54,
+  "versionName": "1.4.43",
+  "apkUrl": "https://github.com/visk1231/My-Life-Releases/releases/download/v1.4.43/My-Life-1.4.43.apk",
+  "sha256": "46429e0ced94dda8918430a76b4973a94356906b31901dd8772f87577c1b9b16",
+  "size": 5730250,
+  "notes": "Переработаны тренажёры памяти: понятные задания с автоматической проверкой, маршруты и отслеживание прогресса.",
+  "sourceFingerprint": "61530017bde20f2f1d462f3dfaf686767c91363cbd0de71dd5924525d98fa79d"
 }
