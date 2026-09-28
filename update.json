@@ -1,9 +1,9 @@
 {
-  "versionCode": 56,
-  "versionName": "1.4.45",
-  "apkUrl": "https://github.com/visk1231/My-Life-Releases/releases/download/v1.4.45/My-Life-1.4.45.apk",
-  "sha256": "65c8ccaf2275bc94c1b24c959235075e47dd5d6e676914fa75e39f12720e0080",
-  "size": 5719778,
-  "notes": "Обновлён интерфейс памяти: понятнее шаги тренировки и нагляднее прогресс.",
-  "sourceFingerprint": "c7b5febc921d98d4f38b7bd2c9ddc78c8a825ee61474380cc69de6e625cc7bb8"
+  "versionCode": 57,
+  "versionName": "1.4.46",
+  "apkUrl": "https://github.com/visk1231/My-Life-Releases/releases/download/v1.4.46/My-Life-1.4.46.apk",
+  "sha256": "cf5406880f48875039fed41808d5c586f0f44b4c141de79b2d39b6e6347ab087",
+  "size": 5719478,
+  "notes": "Упрощены подсказки упражнения Связи и результаты в разделе Память.",
+  "sourceFingerprint": "d007507e1f9dff0edfe92f5804dbd6ddf985deac8d05c753a0ddf39764b75cdb"
 }
