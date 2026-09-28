@@ -1,9 +1,9 @@
 {
-  "versionCode": 55,
-  "versionName": "1.4.44",
-  "apkUrl": "https://github.com/visk1231/My-Life-Releases/releases/download/v1.4.44/My-Life-1.4.44.apk",
-  "sha256": "00a679c17eee1657770ca06e5fd89d0370ebeff24d8e5f8b7149f0646d461c6f",
-  "size": 5716518,
-  "notes": "Новая тренировка памяти «Связи»: короткое обучение, повторение через день и понятный прогресс.",
-  "sourceFingerprint": "512c6c3a5d4daf400164cd25fc2aad78199c017117d7601eb3d0183f54e378c3"
+  "versionCode": 56,
+  "versionName": "1.4.45",
+  "apkUrl": "https://github.com/visk1231/My-Life-Releases/releases/download/v1.4.45/My-Life-1.4.45.apk",
+  "sha256": "65c8ccaf2275bc94c1b24c959235075e47dd5d6e676914fa75e39f12720e0080",
+  "size": 5719778,
+  "notes": "Обновлён интерфейс памяти: понятнее шаги тренировки и нагляднее прогресс.",
+  "sourceFingerprint": "c7b5febc921d98d4f38b7bd2c9ddc78c8a825ee61474380cc69de6e625cc7bb8"
 }
