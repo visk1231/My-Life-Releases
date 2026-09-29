@@ -1,9 +1,9 @@
 {
-  "versionCode": 57,
-  "versionName": "1.4.46",
-  "apkUrl": "https://github.com/visk1231/My-Life-Releases/releases/download/v1.4.46/My-Life-1.4.46.apk",
-  "sha256": "cf5406880f48875039fed41808d5c586f0f44b4c141de79b2d39b6e6347ab087",
-  "size": 5719478,
-  "notes": "Упрощены подсказки упражнения Связи и результаты в разделе Память.",
-  "sourceFingerprint": "d007507e1f9dff0edfe92f5804dbd6ddf985deac8d05c753a0ddf39764b75cdb"
+  "versionCode": 58,
+  "versionName": "1.4.47",
+  "apkUrl": "https://github.com/visk1231/My-Life-Releases/releases/download/v1.4.47/My-Life-1.4.47.apk",
+  "sha256": "3146ee4bf27ff2249f55fc6e55d2edb470fbebac6bb49ae1b193b1dd5fe3d4e5",
+  "size": 5720554,
+  "notes": "Интервальные повторения пар слов и понятный прогресс в разделе Память.",
+  "sourceFingerprint": "c68a133f72021a6471571d1e43215e6a04c42f1088cc2db1a62d8134c73550e4"
 }
