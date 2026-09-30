@@ -1,9 +1,9 @@
 {
-  "versionCode": 58,
-  "versionName": "1.4.47",
-  "apkUrl": "https://github.com/visk1231/My-Life-Releases/releases/download/v1.4.47/My-Life-1.4.47.apk",
-  "sha256": "3146ee4bf27ff2249f55fc6e55d2edb470fbebac6bb49ae1b193b1dd5fe3d4e5",
-  "size": 5720554,
-  "notes": "Интервальные повторения пар слов и понятный прогресс в разделе Память.",
-  "sourceFingerprint": "c68a133f72021a6471571d1e43215e6a04c42f1088cc2db1a62d8134c73550e4"
+  "versionCode": 59,
+  "versionName": "1.4.48",
+  "apkUrl": "https://github.com/visk1231/My-Life-Releases/releases/download/v1.4.48/My-Life-1.4.48.apk",
+  "sha256": "e037f7beb1f4b216d05b6b39bf65f55a8944b593a71daf8fc5792cf1c1b0d134",
+  "size": 5727690,
+  "notes": "Память: понятный выбор упражнений «Пары слов» и «Порядок слов», короткие подсказки, ясная статистика и безопасный выход из занятия. Автоматическая длина списка и проверка через время.",
+  "sourceFingerprint": "cbf62606baae209678931f32a39b4db264b3044397dab749ab7b3cac56e8881c"
 }
