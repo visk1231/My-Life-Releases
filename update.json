@@ -1,9 +1,9 @@
 {
-  "versionCode": 65,
-  "versionName": "1.4.54",
-  "apkUrl": "https://github.com/visk1231/My-Life-Releases/releases/download/v1.4.54/My-Life-1.4.54.apk",
-  "sha256": "ef72aea95c7a999b3429cd43491920cbe03bd1384e52fb07f7ae8b5c30443023",
-  "size": 5752898,
-  "notes": "Таблицы Шульте: числа меняются местами после каждого правильного ответа внутри круга из 10 заданий. Заданная цифра и клетки таблицы имеют одинаковый размер квадрата и шрифта для всех форматов от 3×3 до 9×9.",
-  "sourceFingerprint": "69f16a51df9a9c1c72de9f1c6861087e16a750772d61a1d9b08b66819ed03568"
+  "versionCode": 66,
+  "versionName": "1.4.55",
+  "apkUrl": "https://github.com/visk1231/My-Life-Releases/releases/download/v1.4.55/My-Life-1.4.55.apk",
+  "sha256": "40b4efb0a4cda0cf4461bce0fba81304aef09f56b9fc2a34cb39db245ac7dd65",
+  "size": 5754494,
+  "notes": "Раздел «Память»: единая тренировка на 5/10/15 минут, новый материал для навыковых упражнений, интервальные повторения только для пар слов и общий итог сессии.",
+  "sourceFingerprint": "0b655bd1ee05cbffb3cbed8e37ccd605932f231c9a3a895d1b4cd5a37753adc7"
 }
